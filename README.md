@@ -1,13 +1,15 @@
+
 <p align="left">
   <strong>Hi there, I'm Rahul</strong><br>
   A passionate Node.js developer
+  <img align="right" alt="Coding" width="400" height="230" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/>
 </p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rahul-24kumar&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-24kumar" />
 </p>
 
-<img align="right" alt="Coding" width="300" height="150" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/>
+
 
 <p align="left">
   <span>🔭 I’m currently working on <a href="https://github.com/Rahul-24Kumar/vasundhara" target="_blank">Vasundhara Club</a></span><br>
@@ -17,7 +19,7 @@
   <span>💬 Ask me about <strong>MERN Stack & Finance</strong></span><br>
   <span>⚡ Fun fact <strong>I can code while sleeping!</strong></span>
 </p>
-<br/>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
