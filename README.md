@@ -2,7 +2,7 @@
 <p align="left">
   <strong>Hi there, I'm Rahul</strong><br>
   A passionate Node.js developer
-  <img align="right" alt="Coding" width="400" height="230" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/>
+  <img align="right" alt="Coding" width="370" height="200" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/>
 </p>
 
 <p align="left">
