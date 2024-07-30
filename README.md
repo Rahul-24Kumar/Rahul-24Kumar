@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="320" height="180" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/>
 
 I’m currently learning **Web3**<br>
-I’m currently working on [Vasundhara Eco Club](https://github.com/Rahul-24Kumar/vasundhara)<br>
+I’m currently working on [Vasundhara Club](https://github.com/Rahul-24Kumar/vasundhara)<br>
 I’m looking to collaborate on **MERN Stack**<br>
 I regularly write articles on [TechTalksTrend](https://techtalkstrend.medium.com/)<br>
 Ask me about **MERN Stack & Finance**<br>
