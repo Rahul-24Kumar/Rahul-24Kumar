@@ -7,14 +7,16 @@
   <img src="https://komarev.com/ghpvc/?username=rahul-24kumar&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-24kumar" />
 </p>
 
-<img align="right" alt="Coding" width="320" height="180" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/>
+<img align="right" alt="Coding" width="300" height="150" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/>
 
-I’m currently learning **Web3**<br>
-I’m currently working on [Vasundhara Club](https://github.com/Rahul-24Kumar/vasundhara)<br>
-I’m looking to collaborate on **MERN Stack**<br>
-I regularly write articles on [TechTalksTrend](https://techtalkstrend.medium.com/)<br>
-Ask me about **MERN Stack & Finance**<br>
-Fun fact **I can code while sleeping!**
+<p align="left">
+  <span>🔭 I’m currently working on <a href="https://github.com/Rahul-24Kumar/vasundhara" target="_blank">Vasundhara Club</a></span><br>
+  <span>🌱 I’m currently learning <strong>Web3</strong></span><br>
+  <span>👯 I’m looking to collaborate on <strong>MERN Stack</strong></span><br>
+  <span>📝 I regularly write articles on <a href="https://techtalkstrend.medium.com/" target="_blank">TechTalksTrend</a></span><br>
+  <span>💬 Ask me about <strong>MERN Stack & Finance</strong></span><br>
+  <span>⚡ Fun fact <strong>I can code while sleeping!</strong></span>
+</p>
 <br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
