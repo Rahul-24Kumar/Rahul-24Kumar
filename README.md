@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=rahul-24kumar&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-24kumar" />
 </p>
 
-<img align="right" alt="Coding" width="300" height="200" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/>
+<img align="right" alt="Coding" width="320" height="180" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/>
 
 I’m currently working on [Vasundhara Eco Club Website](https://github.com/Rahul-24Kumar/vasundhara)<br>
 I’m currently learning **Web3**<br>
@@ -17,7 +17,7 @@ I regularly write articles on [TechTalksTrend](https://techtalkstrend.medium.com
 Ask me about **MERN Stack, technical writing, finance**<br>
 How to reach me [LinkedIn](https://www.linkedin.com/in/rk-rahul)<br>
 Fun fact **I can code while sleeping!**
-
+<br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
@@ -96,9 +96,6 @@ Fun fact **I can code while sleeping!**
     <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart-dot-js&logoColor=white" alt="chartjs"/> 
   </a>
 </p>
-
-
-<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://dev.to/rahul_kumar" target="blank">
@@ -114,8 +111,6 @@ Fun fact **I can code while sleeping!**
     <img align="center" src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@techtalkstrend" />
   </a>
 </p>
-
-<br/>
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
