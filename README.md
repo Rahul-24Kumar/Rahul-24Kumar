@@ -10,10 +10,10 @@
 <img align="right" alt="Coding" width="320" height="180" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/>
 
 I’m currently learning **Web3**<br>
-I’m currently working on [Vasundhara Eco Club Website](https://github.com/Rahul-24Kumar/vasundhara)<br>
-I’m looking to collaborate on **MERN Stack Projects**<br>
+I’m currently working on [Vasundhara Eco Club](https://github.com/Rahul-24Kumar/vasundhara)<br>
+I’m looking to collaborate on **MERN Stack**<br>
 I regularly write articles on [TechTalksTrend](https://techtalkstrend.medium.com/)<br>
-Ask me about **MERN Stack & finance**<br>
+Ask me about **MERN Stack & Finance**<br>
 Fun fact **I can code while sleeping!**
 <br/>
 <h3 align="left">Languages and Tools:</h3>
