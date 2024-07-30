@@ -1,5 +1,5 @@
 <p align="left"> 
-  <strong>Hi 👋, I'm Rahul </strong>
+  <strong>Hi there, I'm Rahul </strong>
 </p>
 <p align="left">
   A passionate Node.js developer
