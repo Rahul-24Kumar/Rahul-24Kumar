@@ -85,11 +85,9 @@
   <a href="https://redis.io" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="redis"/> 
   </a>
- 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/> 
   </a>
-  
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="firebase"/> 
   </a>
@@ -99,17 +97,25 @@
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"/> 
   </a>
+ 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> 
+  </a>
+    <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="digitalocean"/> 
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/> 
   </a>
- 
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart-dot-js&logoColor=white" alt="chartjs"/> 
   </a>
+ 
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress"/> 
+  </a>
 </p>
+
 
 
 <h3 align="left">GitHub Stats:</h3>
