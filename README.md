@@ -91,9 +91,7 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/> 
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/> 
-  </a>
+  
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="firebase"/> 
   </a>
@@ -109,9 +107,7 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/> 
   </a>
-  <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/CanvasJS-007ACC?style=for-the-badge&logo=canvasjs&logoColor=white" alt="canvasjs"/> 
-  </a>
+ 
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart-dot-js&logoColor=white" alt="chartjs"/> 
   </a>
