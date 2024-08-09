@@ -85,9 +85,7 @@
   <a href="https://redis.io" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="redis"/> 
   </a>
-  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=aws-amplify&logoColor=white" alt="amplify"/> 
-  </a>
+ 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/> 
   </a>
