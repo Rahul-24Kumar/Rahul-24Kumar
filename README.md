@@ -20,23 +20,6 @@
   <span>⚡ Fun fact <strong>I can code while sleeping!</strong></span>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-   <a href="https://medium.com/@techtalkstrend" target="blank">
-    <img align="center" src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@techtalkstrend" />
-  </a>
-  <a href="https://linkedin.com/in/rk-rahul" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rk-rahul" />
-  </a>
-  <a href="https://dev.to/rahul_kumar" target="blank">
-    <img align="center" src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="rahul_kumar" />
-  </a>
-  <a href="https://instagram.com/rj.rahul_kumar" target="blank">
-    <img align="center" src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="rj.rahul_kumar" />
-  </a>
- 
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -116,6 +99,23 @@
   </a>
 </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  
+   <a href="https://medium.com/@techtalkstrend" target="blank">
+    <img align="center" src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@techtalkstrend" />
+  </a>
+  <a href="https://linkedin.com/in/rk-rahul" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rk-rahul" />
+  </a>
+  <a href="https://dev.to/rahul_kumar" target="blank">
+    <img align="center" src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="rahul_kumar" />
+  </a>
+  <a href="https://instagram.com/rj.rahul_kumar" target="blank">
+    <img align="center" src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="rj.rahul_kumar" />
+  </a>
+ 
+</p>
 
 
 <h3 align="left">GitHub Stats:</h3>
@@ -123,3 +123,4 @@
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-24kumar&" alt="rahul-24kumar" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-24kumar&show_icons=true&locale=en&layout=compact&langs_count=8" alt="rahul-24kumar" />
 </p>
+
