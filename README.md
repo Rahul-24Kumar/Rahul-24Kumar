@@ -80,6 +80,10 @@
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"/> 
   </a>
+  <a href="https://supabase.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="supabase"/>
+</a>
+
  
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> 
