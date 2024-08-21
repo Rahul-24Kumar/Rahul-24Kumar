@@ -21,7 +21,8 @@
 </p>
 
 
-<h3 align="left">Languages & Tools:</h3>
+<h3 align="left">Familiar With:</h3>
+
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
@@ -94,19 +95,26 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="firebase"/> 
   </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+   
+   <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress"/> 
+  </a>
+   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/> 
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/> 
-  </a>
+ 
   <a href="https://github.com/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
 </a>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/> 
+  </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vs code"/>
 </a>
-
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> 
+  </a>
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"/> 
   </a>
@@ -117,19 +125,17 @@
 <a href="https://www.netlify.com" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify"/>
 </a>
+<a href="https://nginx.org" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx"/>
+</a>
  
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> 
-  </a>
-    <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="digitalocean"/> 
   </a>
 
  
  
-  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress"/> 
-  </a>
+ 
 </p>
 
 <h3 align="left">Connect with me:</h3>
