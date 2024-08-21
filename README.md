@@ -23,23 +23,40 @@
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
+</a>
+
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/> 
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> 
-  </a>
-  <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Materialize-EE6E73?style=for-the-badge&logo=materializecss&logoColor=white" alt="materialize"/> 
-  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next.js"/>
+</a>
+
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>
+</a>
+
+ 
+  
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> 
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> 
   </a>
+  <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Materialize-EE6E73?style=for-the-badge&logo=materializecss&logoColor=white" alt="materialize"/> 
+  </a>
+   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> 
+  </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/> 
+  </a>
+   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart-dot-js&logoColor=white" alt="chartjs"/> 
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="express"/> 
@@ -65,6 +82,9 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> 
   </a>
+   <a href="https://supabase.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="supabase"/>
+</a>
   <a href="https://redis.io" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="redis"/> 
   </a>
@@ -74,15 +94,23 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="firebase"/> 
   </a>
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/> 
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/> 
   </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vs code"/>
+</a>
+
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"/> 
   </a>
-  <a href="https://supabase.com" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="supabase"/>
-</a>
+ 
 <a href="https://vercel.com" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"/>
 </a>
@@ -96,12 +124,8 @@
     <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="digitalocean"/> 
   </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/> 
-  </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart-dot-js&logoColor=white" alt="chartjs"/> 
-  </a>
+
+ 
  
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress"/> 
