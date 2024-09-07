@@ -17,7 +17,7 @@
   <span>👯 I’m looking to collaborate on <strong>MERN Stack</strong></span><br>
   <span>📝 I regularly write articles on <a href="https://techtalkstrend.medium.com/" target="_blank">TechTalksTrend</a></span><br>
   <span>💬 Ask me about <strong>MERN Stack & Finance</strong></span><br>
-  <span>⚡ Fun fact <strong>I can code while sleeping</strong></span>
+  <span>⚡ Fun fact <strong>I can code while cooking</strong></span>
 </p>
 
 
