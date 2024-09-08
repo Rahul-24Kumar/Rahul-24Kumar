@@ -83,6 +83,10 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> 
   </a>
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="mariadb"/> 
+</a>
+
    <a href="https://supabase.com" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="supabase"/>
 </a>
