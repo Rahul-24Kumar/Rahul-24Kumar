@@ -12,7 +12,7 @@
 
 
 <p align="left">
-    <span>🌱 I’m currently working on <strong>Alpha Robotics Website</strong></span><br>
+    <span>📝 I’m currently working on <strong>Alpha Robotics Website</strong></span><br>
   <span>🌱 I’m currently learning <strong>Web3</strong></span><br>
 <!--   <span>🔭 I’m currently working on <a href="https://github.com/Rahul-24Kumar/vasundhara" target="_blank">Vasundhara Club</a></span><br> -->
   <span>👯 I’m looking to collaborate on <strong>MERN Stack</strong></span><br>
