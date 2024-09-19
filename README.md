@@ -70,12 +70,7 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="nodejs"/> 
   </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs"/> 
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql"/> 
-  </a>
+ 
   <a href="https://mochajs.org" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="mocha"/> 
   </a>
