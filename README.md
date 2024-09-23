@@ -60,6 +60,10 @@
   <a href="https://daisyui.com/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/DaisyUI-5A0E80?style=for-the-badge&logo=daisyui&logoColor=white" alt="daisyui"/>
 </a>
+<a href="https://shadcn.dev/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/ShadCN%20UI-4A90E2?style=for-the-badge&logo=shadcn&logoColor=white" alt="ShadCN UI"/>
+</a>
+
 
    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart-dot-js&logoColor=white" alt="chartjs"/> 
