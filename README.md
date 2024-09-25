@@ -1,7 +1,7 @@
 
 <p align="left">
   <strong>Hi there, I'm Rahul</strong><br>
-  A passionate Full Stack Developer
+  Full Stack Developer @alpha robotics
   <img align="right" alt="Coding" width="390" height="210" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/>
 </p>
 
