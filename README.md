@@ -1,7 +1,7 @@
 
 <p align="left">
   <strong>Hi there, I'm Rahul</strong><br>
-  Full Stack Developer @alpha robotics
+  Full Stack Developer at Alfa Robotics
   <img align="right" alt="Coding" width="390" height="210" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/>
 </p>
 
@@ -12,7 +12,7 @@
 
 
 <p align="left">
-    <span>📝 I’m currently working on <strong>Alpha Robotics Website</strong></span><br>
+    <span>📝 I’m currently working on <strong>Alfa Robotics Website</strong></span><br>
   <span>🌱 I’m currently learning <strong>Web3</strong></span><br>
 <!--   <span>🔭 I’m currently working on <a href="https://github.com/Rahul-24Kumar/vasundhara" target="_blank">Vasundhara Club</a></span><br> -->
   <span>👯 I’m looking to collaborate on <strong>MERN Stack</strong></span><br>
