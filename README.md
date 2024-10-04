@@ -1,7 +1,7 @@
 
 <p align="left">
-  <strong>Hi there, I'm Rahul</strong><br>
-  Full Stack Developer at Alfa Robotics
+  <h3>Hi there, I'm Rahul</h3><br>
+  <h5>Full Stack Developer at Alfa Robotics</h5>
   <img align="right" alt="Coding" width="390" height="210" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/>
 </p>
 
