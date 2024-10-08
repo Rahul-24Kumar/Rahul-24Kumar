@@ -83,12 +83,13 @@
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="nodejs"/> 
   </a>
  
-  <a href="https://mochajs.org" target="_blank" rel="noreferrer"> 
+<!--   <a href="https://mochajs.org" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="mocha"/> 
   </a>
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest"/> 
   </a>
+  -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> 
   </a>
