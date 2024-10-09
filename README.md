@@ -103,9 +103,9 @@
    <a href="https://supabase.com" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="supabase"/>
 </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> 
+<!--   <a href="https://redis.io" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="redis"/> 
-  </a>
+  </a> -->
 <!--   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/> 
   </a> -->
