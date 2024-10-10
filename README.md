@@ -120,9 +120,10 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/> 
   </a>
   
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+<!--  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> 
   </a>
+  -->
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"/> 
   </a>
