@@ -134,9 +134,9 @@
 <a href="https://www.netlify.com" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify"/>
 </a>
-<a href="https://nginx.org" target="_blank" rel="noreferrer">
+<!-- <a href="https://nginx.org" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx"/>
-</a>
+</a> -->
  
   <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="digitalocean"/> 
