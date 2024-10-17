@@ -54,6 +54,10 @@
   <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Materialize-EE6E73?style=for-the-badge&logo=materializecss&logoColor=white" alt="materialize"/> 
   </a>
+  <a href="https://www.canva.com" target="_blank" rel="noreferrer"> 
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="canva"/> 
+</a>
+
    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> 
   </a>
