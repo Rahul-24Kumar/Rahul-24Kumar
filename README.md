@@ -71,10 +71,10 @@
   <img src="https://img.shields.io/badge/ShadCN%20UI-4A90E2?style=for-the-badge&logo=shadcn&logoColor=white" alt="ShadCN UI"/>
 </a>
 
- <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
+<!-- <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart-dot-js&logoColor=white" alt="chartjs"/> 
   </a>
-
+  -->
 <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
 </a>
