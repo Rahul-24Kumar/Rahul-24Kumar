@@ -40,9 +40,18 @@
  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next.js"/>
 </a>
- 
-  
- 
+   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/> 
+  </a>
+    <a href="https://daisyui.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/DaisyUI-5A0E80?style=for-the-badge&logo=daisyui&logoColor=white" alt="daisyui"/>
+</a>
+<a href="https://shadcn.dev/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/ShadCN%20UI-4A90E2?style=for-the-badge&logo=shadcn&logoColor=white" alt="ShadCN UI"/>
+</a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> 
+  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> 
   </a>
@@ -58,18 +67,9 @@
   <img src="https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="canva"/> 
 </a>
 
-   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> 
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/> 
-  </a>
-  <a href="https://daisyui.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/DaisyUI-5A0E80?style=for-the-badge&logo=daisyui&logoColor=white" alt="daisyui"/>
-</a>
-<a href="https://shadcn.dev/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/ShadCN%20UI-4A90E2?style=for-the-badge&logo=shadcn&logoColor=white" alt="ShadCN UI"/>
-</a>
+
+
+
 
 <!-- <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart-dot-js&logoColor=white" alt="chartjs"/> 
