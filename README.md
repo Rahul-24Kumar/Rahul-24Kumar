@@ -33,10 +33,11 @@
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/> 
   </a>
  
-
+<!--
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>
 </a>
+  -->
  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next.js"/>
 </a>
