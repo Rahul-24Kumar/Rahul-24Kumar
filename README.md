@@ -22,7 +22,7 @@
 </p>
 
 
-<h3 align="left">Familiar With:</h3>
+<h3 align="left">Familiar With :</h3>
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
