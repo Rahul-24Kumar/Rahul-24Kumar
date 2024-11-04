@@ -12,7 +12,7 @@
 
 
 <p align="left">
-    <span>📝 I’m currently working on <strong>Alfa Robotics Website</strong></span><br>
+    <span>📝 I’m currently working on <strong>Prediction Website Similar to PolyMarket</strong></span><br>
   <span>🌱 I’m currently learning <strong>Web3 & DSA</strong></span><br>
 <!--   <span>🔭 I’m currently working on <a href="https://github.com/Rahul-24Kumar/vasundhara" target="_blank">Vasundhara Club</a></span><br> -->
   <span>👯 I’m looking to collaborate on <strong>MERN Stack</strong></span><br>
