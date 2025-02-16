@@ -172,8 +172,8 @@
 
 
 <h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-24kumar&" alt="rahul-24kumar" />
+<p align="left">
+<!--   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-24kumar&" alt="rahul-24kumar" /> -->
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-24kumar&show_icons=true&locale=en&layout=compact&langs_count=8" alt="rahul-24kumar" />
 </p>
 
